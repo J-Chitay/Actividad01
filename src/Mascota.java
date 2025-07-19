@@ -1,3 +1,4 @@
+//Comentario para el segundo commit
 public abstract class Mascota {
     private String nombre;
     private String especie;

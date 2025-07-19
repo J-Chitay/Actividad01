@@ -1,4 +1,4 @@
-
+//Comentario para el segundo commit
 public class Clasificacion extends Mascota {
     
     public Clasificacion(String nombre, String especie, int edad, boolean vacunado){
